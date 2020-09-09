@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Bubble sort.cpp
+d:\users\d.andrieiev\documents\visual studio 2017\projects\bubble sort\bubble sort\bubble sort.cpp(34): warning C4018: '<': signed/unsigned mismatch
+d:\users\d.andrieiev\documents\visual studio 2017\projects\bubble sort\bubble sort\bubble sort.cpp(36): warning C4018: '<': signed/unsigned mismatch
+d:\users\d.andrieiev\documents\visual studio 2017\projects\bubble sort\bubble sort\bubble sort.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  Bubble sort.vcxproj -> d:\users\d.andrieiev\Documents\Visual Studio 2017\Projects\Bubble sort\Debug\Bubble sort.exe
